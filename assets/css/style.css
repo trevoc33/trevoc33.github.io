@@ -149,6 +149,14 @@ a,
   margin: 0;
 }
 
+.size_icon {
+  width: 30px;
+  height: auto;
+  vertical-align: middle;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 /* Sections */
 .navbar-custom+.main {
   margin-top: 50px;
