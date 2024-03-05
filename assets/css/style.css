@@ -150,6 +150,10 @@ a,
 }
 
 /* MARKED: TREV CUSTOM CLASSES */
+.bold {
+  font-weight: bold;
+}
+
 .p-5 {
   padding: 50px;
 }
