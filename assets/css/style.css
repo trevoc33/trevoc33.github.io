@@ -150,12 +150,41 @@ a,
 }
 
 /* MARKED: TREV CUSTOM CLASSES */
+.p-5 {
+  padding: 50px;
+}
+
+.p-4 {
+  padding: 40px;
+}
+
+.p-3 {
+  padding: 30px;
+}
+
+.p-2 {
+  padding: 20px;
+}
+
+.p-1 {
+  padding: 10px;
+}
+
 .bgGreen {
   background-color: rgb(83, 152, 83);
 }
 
 .size_icon img {
   width: 20px;
+  height: auto;
+  vertical-align: middle;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.size_icon_40 img {
+  width: 40px;
   height: auto;
   vertical-align: middle;
   margin-left: 10px;
