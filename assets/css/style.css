@@ -150,6 +150,10 @@ a,
 }
 
 /* MARKED: TREV CUSTOM CLASSES */
+.bgGreen {
+  background-color: rgb(83, 152, 83);
+}
+
 .size_icon img {
   width: 20px;
   height: auto;
@@ -1403,6 +1407,7 @@ General Styles - Owlcarousel
 .dropdown-menu {
   min-width: 180px;
   font-size: 11px;
+  min-height: 2800px;
 }
 
 /* Navbar search
