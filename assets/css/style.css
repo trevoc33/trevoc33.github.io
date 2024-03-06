@@ -730,7 +730,7 @@ a,
   z-index: 1;
 }
 
-.video-controls-box a {
+.video-controls-box {
   display: inline-block;
   color: #fff;
   margin: 0 5px 0 0;
