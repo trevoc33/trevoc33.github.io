@@ -150,8 +150,46 @@ a,
 }
 
 /* MARKED: TREV CUSTOM CLASSES */
-.bold {
+.font-class {
+  font-size: 1rem;
+}
+
+.font-class.famVeranda {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.font-class.famLucidaSans {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.font-class.bold {
   font-weight: bold;
+}
+
+.font-class.semi {
+  font-weight: 600;
+}
+
+.font-class.c-grey {
+  color: #6f6f6f;
+}
+
+.font-class.c-dkgrey {
+  color: #333;
+}
+
+.font-class.lg {
+  font-size: 3rem;
+}
+
+.font-class.md {
+  font-size: 2rem;
+}
+
+.font-class.sm {
+  font-size: 1.5rem;
 }
 
 .p-5 {
