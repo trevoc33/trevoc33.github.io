@@ -382,13 +382,13 @@ a,
 
 .bg-gradient:before {
   position: absolute;
-  background: url(/live/assets/images/team-2.jpg);
+  background: url(/assets/images/homepageVeeBG.jpg);
   /* FF3.6+ */
   /* Chrome,Safari4+ */
   /* Chrome10+,Safari5.1+ */
   /* Opera 11.10+ */
   /* IE10+ */
-  background: linear-gradient(to bottom, rgba(40, 115, 113, 0.57) 25%, rgba(115, 54, 31, 0.67) 75%);
+  background: linear-gradient(to bottom, rgba(9, 90, 128, 0.642) 25%, rgba(20, 74, 24, 0.61) 75%);
   /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00ffffff', endColorstr='#000000', GradientType=0);
   /* IE6-8 */
@@ -3145,5 +3145,19 @@ Google map
   .works-grid-4 .work-item,
   .works-grid-5 .work-item {
     width: 100%;
+
   }
+
+  #homeImage {
+    width: 75%;
+  }
+
+
 }
+
+@media only screen and (min-width: 481px) {
+
+
+  #homeImage {
+    width: 50%;
+  }
