@@ -172,6 +172,10 @@ a,
   font-weight: 600;
 }
 
+.font-class.c-white {
+  color: white !important;
+}
+
 .font-class.c-grey {
   color: #6f6f6f;
 }
