@@ -3148,11 +3148,15 @@ Google map
 
   }
 
+
+}
+
+@media only screen and (max-width: 650px) {
+
+
   #homeImage {
-    width: 75%;
+    width: 70%;
   }
-
-
 }
 
 @media only screen and (min-width: 481px) {
@@ -3161,3 +3165,4 @@ Google map
   #homeImage {
     width: 50%;
   }
+}
