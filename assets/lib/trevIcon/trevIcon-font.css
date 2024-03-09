@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'trevIcon';
+  src:  url('fonts/trevIcon.eot?2jr48v');
+  src:  url('fonts/trevIcon.eot?2jr48v#iefix') format('embedded-opentype'),
+    url('fonts/trevIcon.ttf?2jr48v') format('truetype'),
+    url('fonts/trevIcon.woff?2jr48v') format('woff'),
+    url('fonts/trevIcon.svg?2jr48v#trevIcon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'trevIcon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.trevicon-americanexpress:before {
+  content: "\e906";
+  color: #2e77bc;
+}
+.trevicon-facebook1:before {
+  content: "\e900";
+  color: #1877f2;
+}
+.trevicon-instagram1:before {
+  content: "\e901";
+  color: #e4405f;
+}
+.trevicon-mastercard:before {
+  content: "\e907";
+  color: #eb001b;
+}
+.trevicon-paypal:before {
+  content: "\e902";
+  color: #00457c;
+}
+.trevicon-playstation:before {
+  content: "\e903";
+  color: #003791;
+}
+.trevicon-visa:before {
+  content: "\e908";
+  color: #142787;
+}
+.trevicon-mastodon:before {
+  content: "\e904";
+  color: #3088d4;
+}
+.trevicon-home:before {
+  content: "\e905";
+}
+.trevicon-stack:before {
+  content: "\e92e";
+}
+.trevicon-amazon:before {
+  content: "\ea87";
+}
+.trevicon-facebook:before {
+  content: "\ea90";
+}
+.trevicon-facebook2:before {
+  content: "\ea91";
+}
+.trevicon-instagram:before {
+  content: "\ea92";
+}
+.trevicon-whatsapp:before {
+  content: "\ea93";
+}
+.trevicon-twitter:before {
+  content: "\ea96";
+}
+.trevicon-rss:before {
+  content: "\ea9b";
+}
+.trevicon-rss2:before {
+  content: "\ea9c";
+}
+.trevicon-youtube:before {
+  content: "\ea9d";
+}
+.trevicon-youtube2:before {
+  content: "\ea9e";
+}
+.trevicon-twitch:before {
+  content: "\ea9f";
+}
+.trevicon-appleinc:before {
+  content: "\eabe";
+}
+.trevicon-android:before {
+  content: "\eac0";
+}
+.trevicon-windows:before {
+  content: "\eac1";
+}
+.trevicon-windows8:before {
+  content: "\eac2";
+}
